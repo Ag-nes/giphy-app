@@ -1,0 +1,9 @@
+.gifs{
+    width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.gif img{
+    max-width: 250px;
+}
